@@ -2,7 +2,7 @@
 #include "Ares.version.h"
 #include "Ares.CRT.h"
 //include "CallCenter.h"
-#include <StaticInits.cpp>
+//#include <StaticInits.cpp>
 #include <Unsorted.h>
 #include <GetCDClass.h>
 

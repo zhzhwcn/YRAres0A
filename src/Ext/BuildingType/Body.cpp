@@ -346,7 +346,7 @@ void BuildingTypeExt::ExtData::UpdateFoundationRadarShape() {
 		int pixelsX = Transform(width, pRadar->RadarSizeFactor);
 		int pixelsY = Transform(height, pRadar->RadarSizeFactor);
 
-		// heigth of the foundation tilted by 45°
+		// heigth of the foundation tilted by 45¡ã
 		int rows = pixelsX + pixelsY - 1;
 
 		// this draws a rectangle standing on an edge, getting

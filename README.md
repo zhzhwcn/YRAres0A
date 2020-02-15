@@ -4,10 +4,11 @@
 * 使用前请阅读[应该具有的心态](https://gitee.com/Zero_Fanker/Ares/wikis/%E5%BA%94%E8%AF%A5%E5%85%B7%E6%9C%89%E7%9A%84%E5%BF%83%E6%80%81?sort_id=1907760)
 
 ### 使用说明
-* 建议使用git工具将本仓库拉取到本地
-* 运行bat
+1. 建议使用git工具将本仓库拉取到本地
+2. 运行update_codes.bat，如果你已经正确安装了git工具，依赖库YRPP会自动下载到预设位置
 
-[教学导航见wiki](https://gitee.com/Zero_Fanker/Ares/wikis/%E5%BC%95%E8%A8%80)
+
+3. [教学导航见wiki](https://gitee.com/Zero_Fanker/Ares/wikis/%E5%BC%95%E8%A8%80)
 
 ### 相关链接
 

@@ -19,6 +19,6 @@
 
 * Ares官方github主库：https://github.com/Ares-Developers/Ares
 
-* Ares官方YRPP主库：https://github.com/Ares-Developers/YRpp
+* Ares官方github依赖库：https://github.com/Ares-Developers/YRpp
 
 * ModEnc：https://www.modenc.renegadeprojects.com/Main_Page

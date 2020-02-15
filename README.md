@@ -9,12 +9,10 @@ https://gitee.com/Zero_Fanker/Ares
 
 https://gitee.com/Zero_Fanker/YRpp
 
-首页：https://github.com/Ares-Developers
+Ares官方github首页：https://github.com/Ares-Developers
 
-Ares：https://github.com/Ares-Developers/Ares
+Ares官方github主库：https://github.com/Ares-Developers/Ares
 
-YRPP：https://github.com/Ares-Developers/YRpp
-
-Syringe：https://github.com/Ares-Developers/Syringe
+Ares官方YRPP主库：https://github.com/Ares-Developers/YRpp
 
 ModEnc：https://www.modenc.renegadeprojects.com/Main_Page

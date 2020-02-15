@@ -11,10 +11,9 @@
 
 ### 使用说明
 1. 建议使用git工具将本仓库拉取到本地
-2. 运行update_codes.bat，如果你已经正确安装了git工具，依赖库YRPP会自动下载到预设位置
-
-
-3. [教学导航见wiki](https://gitee.com/Zero_Fanker/Ares/wikis/%E5%BC%95%E8%A8%80)
+2. 运行update_codes.bat，如果你已经正确安装了git工具，依赖库YRPP会自动下载到预设位置；
+3. 本仓库包含VS项目配置文件，使用VS2017创建，预设的SDK是10.0.17763.0(Win10)，需要兼容XP系统的话需要自己下载WinSDK7.1A并应用到项目设置中去；
+4. [教学导航见wiki](https://gitee.com/Zero_Fanker/Ares/wikis/%E5%BC%95%E8%A8%80)
 
 ### 帮助与支持
 * 欢迎爱好者们参与Ares的开发，我们乐于与大家分享开发Ares的知识与经验，同时我们也欢迎大家踊跃贡献自己的代码成果，或是指正我们存在的问题。

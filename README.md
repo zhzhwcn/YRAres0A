@@ -5,7 +5,7 @@
 
 ### 须知
 * 使用前请阅读[应该具有的心态](https://gitee.com/Zero_Fanker/Ares/wikis/%E5%BA%94%E8%AF%A5%E5%85%B7%E6%9C%89%E7%9A%84%E5%BF%83%E6%80%81?sort_id=1907760)
-* 本仓库为Ares官版0.A码云镜像微调修正版下载后即可直接编译。相关仓库为:https://gitee.com/Zero_Fanker/YRpp。
+* 本仓库为Ares官版0.A码云镜像微调修正版下载后即可直接编译。相关仓库为:https://gitee.com/Zero_Fanker/YRpp 。
 * Ares官方版本已经演进到3.0，而github上的源代码只更新到了0.A，其中YRPP更新到了0.B，所以我们只能提供0.A版本的原始代码。
 * Ares 0.A需要Visual Studio 2015及以上版本以支持其语言特性和编译。
 

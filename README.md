@@ -28,4 +28,8 @@
 
 * Ares官方github依赖库：https://github.com/Ares-Developers/YRpp
 
+* Ares官方Launchpad成品下载页：https://launchpad.net/ares/+download
+
+* Ares官方主页（恢复不久，但内容陈旧）：https://www.ares.strategy-x.com/
+
 * ModEnc：https://www.modenc.renegadeprojects.com/Main_Page

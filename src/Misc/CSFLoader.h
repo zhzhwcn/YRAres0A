@@ -10,6 +10,7 @@
 #include <StringTable.h>
 
 #include <unordered_map>
+#include<iostream>
 
 class CSFLoader
 {

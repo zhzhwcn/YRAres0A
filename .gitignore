@@ -172,3 +172,5 @@
 *.opensdf
 *.vcxproj*
 *.suo
+/Release
+/.vs

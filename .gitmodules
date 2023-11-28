@@ -1,0 +1,4 @@
+[submodule "lib/YRPP"]
+	path = lib/YRPP
+	url = https://github.com/zhzhwcn/YRppAres0A.git
+	branch = Ares0A
